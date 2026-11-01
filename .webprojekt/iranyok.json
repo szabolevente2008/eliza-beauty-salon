@@ -1,0 +1,113 @@
+{
+  "directions": [
+    {
+      "id": 1,
+      "slug": "a-csendes-szalon",
+      "name": "A csendes szalon",
+      "description": "Tágas, galériaszerű elrendezés: osztott hero, bal oldalon nagy, vékony talpas cím, jobbra magas, boltíves keretű fotó. Rengeteg krém tér, homokarany hajszálvonalak, lapos felületek, lassú áttűnések. Egyenletes, nyugodt rács, a vélemények nagy idézetként, a csomagok letisztult kártyákon.",
+      "rationale": "A 35+ vendég óvatos és nyugalmat keres: ez az irány a privát, nem futószalagos szalon csendjét teszi kézzelfoghatóvá, a boltív a szalon belső terét idézi.",
+      "contrast_axes": {
+        "density": "spacious",
+        "typography": "finom hierarchia, hajszálvékony vonalak",
+        "hero": "split-screen, boltíves kép",
+        "visual_metaphor": "minimál galéria",
+        "shape": "boltív + kapszula",
+        "shadow": "lapos",
+        "proof": "nagy idézetes vélemények"
+      },
+      "palette": {
+        "primary": "#8E4A5A",
+        "secondary": "#6E3644",
+        "accent": "#C9A27E",
+        "bg": "#FAF6F2",
+        "surface": "#F1E6DF",
+        "text": "#2E2626",
+        "muted": "#6B5F5C"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Cormorant Garamond",
+          "fallback": "Georgia, serif"
+        },
+        "body": {
+          "family": "Jost",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Jost:wght@400;500&display=swap"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "borkozelben",
+      "name": "Bőrközelben",
+      "description": "Érzéki, organikus irány: teljes szélességű, meleg fényű arckezelés-fotó a herón, rárétegzett púder szövegpanellel. Puha, csepp- és szérumcseppszerű organikus formák (border-radius), egymásra lógó képek, púder és krém hullámos szekcióváltások, finom lebegő animációk. Közeli, bőrtónusú fotók uralják az oldalt.",
+      "rationale": "A kezelések eredménye a bőrön látszik: ez az irány a fotókra és az érintés, a gondoskodás érzésére épít, a csepp a természetes hatóanyagok szimbóluma.",
+      "contrast_axes": {
+        "density": "kiegyensúlyozott",
+        "typography": "nagy dőlt kiemelések a címsorokban",
+        "hero": "teljes szélességű fotó, rétegzett panel",
+        "visual_metaphor": "organikus, rétegek",
+        "shape": "organikus csepp + kapszula",
+        "shadow": "finom, rétegzett",
+        "proof": "fotó + vélemény párok"
+      },
+      "palette": {
+        "primary": "#8E4A5A",
+        "secondary": "#6E3644",
+        "accent": "#C9A27E",
+        "bg": "#FAF6F2",
+        "surface": "#F1E6DF",
+        "text": "#2E2626",
+        "muted": "#6B5F5C"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Cormorant Garamond",
+          "fallback": "Georgia, serif"
+        },
+        "body": {
+          "family": "Jost",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Jost:wght@400;500&display=swap"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "a-rituale",
+      "name": "A rituálé",
+      "description": "Magazinszerű, tipografikus irány: a herón óriási Cormorant cím uralkodik, kis, álló portréfotóval és oldalsó sorszámmal. A visszatérő motívum a sorszám (01–04) és a homokarany vonalas keret: a folyamat négy lépése az oldal gerince. Aszimmetrikus rács, egy sötét kakaó szakasz homokarany számokkal (14+, 1300+, 350+), szöveggel és képpel váltakozó szekciók.",
+      "rationale": "Eliza szakértelme egy átgondolt folyamatban (diagnosztika, terv, kezelés, otthoni rutin) és a garanciában ölt testet: ez az irány a szakmai tekintélyt és a rendszert emeli ki.",
+      "contrast_axes": {
+        "density": "kiegyensúlyozott, editorial",
+        "typography": "extrém méretkontraszt",
+        "hero": "tipografikus, kis portré",
+        "visual_metaphor": "editorial magazin",
+        "shape": "vegyes: éles keretek + kapszula gomb",
+        "shadow": "lapos",
+        "proof": "statisztika-központú sötét sáv"
+      },
+      "palette": {
+        "primary": "#8E4A5A",
+        "secondary": "#6E3644",
+        "accent": "#C9A27E",
+        "bg": "#FAF6F2",
+        "surface": "#F1E6DF",
+        "text": "#2E2626",
+        "muted": "#6B5F5C"
+      },
+      "fonts": {
+        "heading": {
+          "family": "Cormorant Garamond",
+          "fallback": "Georgia, serif"
+        },
+        "body": {
+          "family": "Jost",
+          "fallback": "system-ui, sans-serif"
+        },
+        "google_fonts_url": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Jost:wght@400;500&display=swap"
+      }
+    }
+  ],
+  "total": 3
+}

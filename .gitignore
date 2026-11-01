@@ -1,0 +1,8 @@
+.DS_Store
+__MACOSX/
+# eredeti, nagy felbontású stock fotók (webes változat: images/)
+kepek-eredeti/
+node_modules/
+.netlify/
+# kurzus-sablon nyers szövege (a kitöltött változat a weboldalon lesz)
+alapanyag/adatkezelesi-sablon.txt
