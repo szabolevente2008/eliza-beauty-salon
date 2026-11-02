@@ -1,0 +1,148 @@
+{
+  "offline": true,
+  "checks": [
+    {
+      "file": "index.html",
+      "width": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "kezelesek.html",
+      "width": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "rolunk.html",
+      "width": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "kapcsolat.html",
+      "width": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "adatkezelesi-tajekoztato.html",
+      "width": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "koszonjuk.html",
+      "width": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "kisokos-koszonjuk.html",
+      "width": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "404.html",
+      "width": 375,
+      "scrollWidth": 375
+    },
+    {
+      "file": "index.html",
+      "width": 768,
+      "scrollWidth": 753
+    },
+    {
+      "file": "kezelesek.html",
+      "width": 768,
+      "scrollWidth": 753
+    },
+    {
+      "file": "rolunk.html",
+      "width": 768,
+      "scrollWidth": 753
+    },
+    {
+      "file": "kapcsolat.html",
+      "width": 768,
+      "scrollWidth": 753
+    },
+    {
+      "file": "adatkezelesi-tajekoztato.html",
+      "width": 768,
+      "scrollWidth": 753
+    },
+    {
+      "file": "koszonjuk.html",
+      "width": 768,
+      "scrollWidth": 753
+    },
+    {
+      "file": "kisokos-koszonjuk.html",
+      "width": 768,
+      "scrollWidth": 753
+    },
+    {
+      "file": "404.html",
+      "width": 768,
+      "scrollWidth": 753
+    },
+    {
+      "file": "index.html",
+      "width": 1440,
+      "scrollWidth": 1425
+    },
+    {
+      "file": "kezelesek.html",
+      "width": 1440,
+      "scrollWidth": 1425
+    },
+    {
+      "file": "rolunk.html",
+      "width": 1440,
+      "scrollWidth": 1425
+    },
+    {
+      "file": "kapcsolat.html",
+      "width": 1440,
+      "scrollWidth": 1425
+    },
+    {
+      "file": "adatkezelesi-tajekoztato.html",
+      "width": 1440,
+      "scrollWidth": 1425
+    },
+    {
+      "file": "koszonjuk.html",
+      "width": 1440,
+      "scrollWidth": 1425
+    },
+    {
+      "file": "kisokos-koszonjuk.html",
+      "width": 1440,
+      "scrollWidth": 1425
+    },
+    {
+      "file": "404.html",
+      "width": 1440,
+      "scrollWidth": 1425
+    }
+  ],
+  "formPosts": [
+    {
+      "url": "/koszonjuk.html",
+      "fieldNames": [
+        "form-name",
+        "bot-field",
+        "nev",
+        "email",
+        "uzenet"
+      ]
+    },
+    {
+      "url": "/kisokos-koszonjuk.html",
+      "fieldNames": [
+        "form-name",
+        "bot-field",
+        "nev",
+        "email",
+        "adatvedelem"
+      ]
+    }
+  ],
+  "errors": []
+}

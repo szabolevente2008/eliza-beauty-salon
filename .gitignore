@@ -6,3 +6,8 @@ node_modules/
 .netlify/
 # kurzus-sablon nyers szövege (a kitöltött változat a weboldalon lesz)
 alapanyag/adatkezelesi-sablon.txt
+.webprojekt/qa-*
+# kurzus-anyagok: csak helyben (nyilvános repóba nem kerülnek)
+alapanyag/
+.claude/skills/
+.webprojekt/build-static.cjs

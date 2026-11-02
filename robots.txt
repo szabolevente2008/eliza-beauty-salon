@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eliza-beauty-salon.netlify.app/sitemap.xml
