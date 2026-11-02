@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eliza-beauty-salon.netlify.app/sitemap.xml
+Sitemap: https://eliza-beauty-salon-budapest.netlify.app/sitemap.xml

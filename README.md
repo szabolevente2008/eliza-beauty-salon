@@ -8,6 +8,8 @@ Vikingo AI-webfejlesztés tanfolyami házi feladat: egy kitalált kozmetikai sza
 - **Képek:** Unsplash (ingyenes licenc), WebP, 800 és 1600 px széles változatban
 - **Folyamat:** `/tervezes` → brief (`.webprojekt/brief.md`) → `/generalas` 3 koncepcióval (`koncepciok.html`) → a választott irány („A csendes szalon”) kiépítése
 
+Élő oldal: https://eliza-beauty-salon-budapest.netlify.app/
+
 Helyi előnézet: `python -m http.server 4341`, majd http://127.0.0.1:4341/
 
 A telefonszám és az e-mail cím kitalált adat.
